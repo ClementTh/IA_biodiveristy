@@ -21,7 +21,8 @@ Pour pouvoir éxécuter ces différents codes vous allez avoir besoin de 'quelqu
 
 # Mise en place pour le site
 
-- Mettre les .tar des modèles dans le fichier models
+- Mettre les .tar des modèles dans un dossier nommé 'models'
+- Mettre models dans le fichier principal
 - Ouvrir le fichier python streamlit.py sur vscode
 - Avec le terminal rendez vous dans le dossier ou est stocké streamlit.py
 - Remplacer les chemins au début du code par les chemins de vos fichiers
