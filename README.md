@@ -1,7 +1,5 @@
 # Projet IA et biodiversité 
-Thavarajah Rajeenth /Vaubourg Hugo GI
-Thiveyrat Clément / Rodriguez Yoan DSIA
-Lavie Clément / Royer Timothée INFO
+Thavarajah Rajeenth /Vaubourg Hugo / Thiveyrat Clément / Rodriguez Yoan / Lavie Clément / Royer Timothée 
 
 # Objectif de notre projet
 
