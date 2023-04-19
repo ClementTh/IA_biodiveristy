@@ -1,5 +1,7 @@
 # Projet IA et biodiversité 
-
+Thavarajah Rajeenth /Vaubourg Hugo GI
+Thiveyrat Clément / Rodriguez Yoan DSIA
+Lavie Clément / Royer Timothée INFO
 
 # Objectif de notre projet
 
@@ -37,11 +39,14 @@ Pour pouvoir éxécuter ces différents codes vous allez avoir besoin de 'quelqu
 - Lancer le programme (Peut être très long à éxécuter en fonction de la machine)
 
 
+
 # Conclusion
 
 Notre projet avait pour but de mieux comprendre le monde de la reconnaissance d'image dans le domaine de la biodiversité. Nous avons pu réaliser un comparatif des différents modèles existants et nous avons même pu créer notre propre modèle. Cependant ce domaine est toujours en expansion et même les modèles les plus performants s'inclinent lorsque l'image est trop bruitée. 
 
 
+# Contact
 
+clement.thiveyrat@edu.esiee.fr
 
 
