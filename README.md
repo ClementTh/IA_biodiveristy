@@ -3,7 +3,7 @@
 
 # Objectif de notre projet
 
-Notre projet consiste en la réalisation d'un modèle CNN pour la classification d'espèces de plantes. Nous nous basons sur le dataset plantnet300k afin de créer notre modèle. Dans un deuxième temps nous allons comparer les différents modèles existant et créer une interface web.
+Notre projet consiste en la réalisation d'un modèle CNN pour la classification d'espèces de plantes. Nous nous basons sur le dataset plantnet300k afin de créer notre modèle. Dans un deuxième temps nous allons comparer les différents modèles existant et créer une interface web qui prendra une image en entrée et qui donnera les 5 prédictions les plus probables à l'aide d'un modèle préalablement sélectionné.
 
 # Fichiers nécessaires
 
